@@ -1,5 +1,5 @@
 # User Management Web Application  
-# Deployed Link :- https://ajackus-user-management-dashboard-hazel.vercel.app/
+# Deployed Link :- https://ajackus-assignment-dashboard.vercel.app/
 
 ## 📌 Objective  
 A simple web application where users can **view, add, edit, and delete user details** from a mock backend API. The project demonstrates CRUD operations, pagination, filtering, search, sorting, and responsive UI design.  
@@ -53,8 +53,8 @@ A simple web application where users can **view, add, edit, and delete user deta
 
 ### Clone the repository  
 ```bash
-git clone https://github.com/Shiakh0112/Ajackus-user-management-dashboard
-cd Ajackus-user-management-dashboard
+git clone https://github.com/ibrahim9492/Ajackus_Assignment
+cd Ajackus_Assignment
 ```  
 
 ### Install dependencies  
